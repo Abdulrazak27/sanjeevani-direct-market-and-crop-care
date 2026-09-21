@@ -12,7 +12,7 @@ Sanjeevani is a production-grade, mobile-first AgriTech application designed for
 
 - **Main Website / Farmer App (Vercel)**: [https://frontend-chi-six-yjcuzbprg7.vercel.app](https://frontend-chi-six-yjcuzbprg7.vercel.app)
 - **Master Admin Portal (Vercel)**: [https://admin-ecru-tau-64.vercel.app](https://admin-ecru-tau-64.vercel.app)
-- **GitHub Repository**: [https://github.com/Abdulrazak27/smart-crop-AI](https://github.com/Abdulrazak27/smart-crop-AI)
+- **GitHub Repository**: [https://github.com/Abdulrazak27/sanjeevani-direct-market-and-crop-care](https://github.com/Abdulrazak27/sanjeevani-direct-market-and-crop-care)
 
 ---
 
