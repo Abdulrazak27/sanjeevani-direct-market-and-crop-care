@@ -1,0 +1,16 @@
+{
+  "name": "sanjeevani-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SANJEEVANI — From Crop Care to Market — Your Farming Saathi.",
+  "scripts": {
+    "build": "npm --prefix frontend install && npm --prefix frontend run build",
+    "start": "node server.js",
+    "dev:frontend": "npm --prefix frontend run dev",
+    "dev:backend": "cd backend && python main.py"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
