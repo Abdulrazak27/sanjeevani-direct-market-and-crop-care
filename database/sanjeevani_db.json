@@ -1,5 +1,5 @@
 {
-  "version": 1789958304881,
+  "version": 1789971747205,
   "farmers": [
     {
       "id": "FAR_201",
@@ -15,7 +15,7 @@
       "account_status": "Active",
       "kyc_doc_url": "Self Declared",
       "land_record_no": "PENDING_VERIFY",
-      "created_at": "2026-09-21T02:38:24.881Z"
+      "created_at": "2026-09-21T06:22:15.278Z"
     },
     {
       "id": "FAR_202",
@@ -70,26 +70,6 @@
       "account_status": "Active",
       "kyc_doc_name": "Trade_License.pdf",
       "created_at": "2026-09-21T01:07:14.860Z"
-    },
-    {
-      "id": "BUY_4841",
-      "company_name": "hello ",
-      "rep_name": "Tomato",
-      "phone": "+91 98765 43210",
-      "email": "buyer@agri.com",
-      "location": "Guntur",
-      "district": "Guntur",
-      "state": "Andhra Pradesh",
-      "buyer_type": "Wholesaler & Exporter",
-      "interested_crops": [
-        "Tomato"
-      ],
-      "price_offered_qtl": 2500,
-      "min_qty_tons": 10,
-      "kyc_status": "Verified",
-      "account_status": "Active",
-      "kyc_doc_name": "DOC_SUBMITTED.pdf",
-      "created_at": "2026-09-21"
     },
     {
       "id": "BUY_301",
@@ -558,6 +538,116 @@
     }
   ],
   "audit_logs": [
+    {
+      "id": "LOG_1789971747205",
+      "action": "Registered New Buyer: Fast Test Agro Mandi",
+      "user_name": "Rajesh Test",
+      "role": "BUYER",
+      "entity": "Buyer",
+      "entity_id": "BUY_TEST_1789971747167",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:22:27.205Z"
+    },
+    {
+      "id": "LOG_1789971735278",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:22:15.278Z"
+    },
+    {
+      "id": "LOG_1789971735266",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:22:15.266Z"
+    },
+    {
+      "id": "LOG_1789971318955",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:15:18.955Z"
+    },
+    {
+      "id": "LOG_1789971318944",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:15:18.944Z"
+    },
+    {
+      "id": "LOG_1789971315315",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:15:15.315Z"
+    },
+    {
+      "id": "LOG_1789971315309",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:15:15.309Z"
+    },
+    {
+      "id": "LOG_1789971299491",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:14:59.492Z"
+    },
+    {
+      "id": "LOG_1789971299480",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T06:14:59.480Z"
+    },
+    {
+      "id": "LOG_1789962215597",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T03:43:35.597Z"
+    },
+    {
+      "id": "LOG_1789962215589",
+      "action": "Registered / Upserted Farmer: Ramesh Kumar",
+      "user_name": "Ramesh Kumar",
+      "role": "FARMER",
+      "entity": "Farmer",
+      "entity_id": "FAR_201",
+      "status": "SUCCESS",
+      "timestamp": "2026-09-21T03:43:35.589Z"
+    },
     {
       "id": "LOG_1789958304881",
       "action": "Registered / Upserted Farmer: Ramesh Kumar",

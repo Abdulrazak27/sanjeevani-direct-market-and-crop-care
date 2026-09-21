@@ -513,7 +513,12 @@ app.post("/api/buyers", (req, res) => {
     kyc_doc_name: req.body.kyc_doc_name || req.body.kycDocName || "Trade_License.pdf",
     created_at: new Date().toISOString()
   };
-  db.buyers.unshift(newBuyer);
+  const existingIdx = db.buyers.findIndex(b => b.id === newBuyer.id);
+  if (existingIdx !== -1) {
+    db.buyers[existingIdx] = { ...db.buyers[existingIdx], ...newBuyer };
+  } else {
+    db.buyers.unshift(newBuyer);
+  }
   db.audit_logs.unshift({
     id: `LOG_${Date.now()}`,
     action: `Registered New Buyer: ${newBuyer.company_name}`,

@@ -284,6 +284,7 @@ export const Market: React.FC = () => {
       };
       setBuyers((prev) => [newBuyer, ...prev]);
       addSharedBuyer({
+        id,
         companyName: title || "Sanjeevani Direct Buyer",
         repName: extraStr || "Company Rep",
         phone: phoneStr,
