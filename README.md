@@ -1,6 +1,6 @@
-# ?? Sanjeevani  Smart Crop Care & Direct Market Access Platform
+# 🌿 Sanjeevani — Direct Market & Crop Care
 
-> **"From Crop Care to Market  Your Farming Companion."**
+> **"From Crop Care to Market — Your Farming Companion."**
 
 Sanjeevani is a production-grade, mobile-first AgriTech application designed for small and marginal farmers using basic smartphones, regional languages (Telugu, Hindi, English), and low digital literacy.
 
@@ -8,11 +8,11 @@ Sanjeevani is a production-grade, mobile-first AgriTech application designed for
 
 ---
 
-## ?? Live Production Links
+## 🚀 Live Production Links
 
 - **Main Website / Farmer App (Vercel)**: [https://frontend-chi-six-yjcuzbprg7.vercel.app](https://frontend-chi-six-yjcuzbprg7.vercel.app)
 - **Master Admin Portal (Vercel)**: [https://admin-ecru-tau-64.vercel.app](https://admin-ecru-tau-64.vercel.app)
-- **GitHub Repository**: [https://github.com/HitaishiDevarapalli/smart-crop-AI](https://github.com/HitaishiDevarapalli/smart-crop-AI)
+- **GitHub Repository**: [https://github.com/Abdulrazak27/smart-crop-AI](https://github.com/Abdulrazak27/smart-crop-AI)
 
 ---
 
