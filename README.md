@@ -1,7 +1,7 @@
 # 🌿 Sanjeevani — Direct Market & Crop Care
 > **"From Crop Care to Market — Your Complete Smart Farming & Direct Trade Companion."**
 
-[![Live App](https://img.shields.io/badge/Live%20App-Vercel-success?style=for-the-badge&logo=vercel)](https://frontend-chi-six-yjcuzbprg7.vercel.app)
+[![Live App](https://img.shields.io/badge/Live%20App-Vercel-success?style=for-the-badge&logo=vercel)](https://sanjeevani-direct-market-and-crop-c.vercel.app)
 [![Admin Portal](https://img.shields.io/badge/Admin%20Portal-Vercel-blue?style=for-the-badge&logo=vercel)](https://admin-ecru-tau-64.vercel.app)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/Abdulrazak27/sanjeevani-direct-market-and-crop-care)
 [![React 19](https://img.shields.io/badge/Frontend-React%2019%20%7C%20TypeScript-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
